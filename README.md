@@ -21,8 +21,11 @@ You can view the live calculator here:
 
 ## 📂 Project Structure
 calculator/
+
 │── index.html
+
 │── style.css
+
 │── script.js
 
 
