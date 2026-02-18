@@ -36,5 +36,6 @@ calculator/
 - Keyboard input support
   
 
+⭐ If you like this portfolio, feel free to star the repository!
 
 ## 👩‍🏫 This project is open-source and available for learning and practice.
