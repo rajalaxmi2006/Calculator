@@ -43,6 +43,6 @@ calculator/
 - Email: biswalrajalaxmi901@gmail.com
 - Linkedin: www.linkedin.com/in/rajalaxmi-biswal-90652337b
  
-⭐ If you like this portfolio, feel free to star the repository!
+⭐ If you like this calculator, feel free to star the repository!
 
 ## 👩‍🏫 This project is open-source and available for learning and practice.
